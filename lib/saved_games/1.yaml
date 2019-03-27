@@ -1,0 +1,34 @@
+---
+:player: !ruby/object:Player
+  name: Brax
+  score: 0
+:answer:
+- R
+- E
+- L
+- I
+- G
+- I
+- O
+- S
+- I
+- T
+- Y
+:mistakes: 3
+:correct:
+- _
+- E
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:incorrect:
+- A
+- K
+- B
+:filename: '1'

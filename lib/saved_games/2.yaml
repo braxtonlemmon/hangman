@@ -1,0 +1,29 @@
+---
+:player: !ruby/object:Player
+  name: Braxton
+  score: 0
+:answer:
+- S
+- I
+- Z
+- Z
+- L
+- I
+- N
+- G
+- L
+- Y
+:mistakes: 0
+:correct:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:incorrect: []
+:filename: '2'
